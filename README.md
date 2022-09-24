@@ -1,5 +1,5 @@
 # Sobre mim
-Desenvolvedora Junior de Python. Gosto de jogos e planejo criar meus próprios jogos no futuro.
+Desenvolvedor Junior de Python. Gosto de jogos e planejo criar meus próprios jogos no futuro.
 
 ## Plataformas que eu uso:
 - Computador
