@@ -1,6 +1,8 @@
 # Sobre mim
 Estudante universitária de Cibersegurança. Fiz curso técnico por 2 anos na TECPUC, porém terminei o terceiro ano e me formei no SESI/SENAI devido ao fechamento da TECPUC.
+
 Tenho experiência com programação em Python e um pouco de C#.
+
 Trabalho com servidores e banco de dados.
 
 ## Tecnologias e Ferramentas
